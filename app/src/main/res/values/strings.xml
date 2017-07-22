@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora de Medias UNIVALI</string>
+    <string name="action_settings">Sair</string>
+    <string name="P1">Prova 1</string>
+    <string name="P2">Prova 2</string>
+    <string name="M1">M1</string>
+    <string name="M2">M2</string>
+    <string name="M3">M3</string>
+    <string name="NotaBase">0.0</string>
+</resources>
