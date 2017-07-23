@@ -14,11 +14,5 @@
     <string name="PesoBase">1</string>
     <string name="buttom_ok">Definir</string>
     <string name="action_peso">Pesos</string>
-    <string name="pp1m1">1</string>
-    <string name="pp2m1">1</string>
-    <string name="pp1m2">1</string>
-    <string name="pp2m2">1</string>
-    <string name="pp1m3">1</string>
-    <string name="pp2m3">1</string>
     <string name="pref_key">pref</string>
 </resources>
