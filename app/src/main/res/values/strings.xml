@@ -1,10 +1,23 @@
 <resources>
     <string name="app_name">Calculadora de Medias UNIVALI</string>
     <string name="action_settings">Sair</string>
+    <string name="action_clear">Limpar</string>
     <string name="P1">Prova 1</string>
     <string name="P2">Prova 2</string>
     <string name="M1">M1</string>
     <string name="M2">M2</string>
     <string name="M3">M3</string>
+    <string name="PM1">Peso Média 1</string>
+    <string name="PM2">Peso Média 2</string>
+    <string name="PM3">Peso Média 3</string>
     <string name="NotaBase">0.0</string>
+    <string name="PesoBase">1</string>
+    <string name="buttom_ok">Definir</string>
+    <string name="action_peso">Pesos</string>
+    <string name="pp1m1">1</string>
+    <string name="pp2m1">1</string>
+    <string name="pp1m2">1</string>
+    <string name="pp2m2">1</string>
+    <string name="pp1m3">1</string>
+    <string name="pp2m3">1</string>
 </resources>
